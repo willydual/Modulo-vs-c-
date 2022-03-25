@@ -1,0 +1,28 @@
+c:\users\52999\documents\visual studio 2013\Projects\productos\productos\bin\Debug\productos.exe.config
+c:\users\52999\documents\visual studio 2013\Projects\productos\productos\bin\Debug\productos.exe
+c:\users\52999\documents\visual studio 2013\Projects\productos\productos\bin\Debug\productos.pdb
+c:\users\52999\documents\visual studio 2013\Projects\productos\productos\obj\Debug\productos.csprojResolveAssemblyReference.cache
+c:\users\52999\documents\visual studio 2013\Projects\productos\productos\obj\Debug\productos.Form1.resources
+c:\users\52999\documents\visual studio 2013\Projects\productos\productos\obj\Debug\productos.Properties.Resources.resources
+c:\users\52999\documents\visual studio 2013\Projects\productos\productos\obj\Debug\productos.csproj.GenerateResource.Cache
+c:\users\52999\documents\visual studio 2013\Projects\productos\productos\obj\Debug\productos.exe
+c:\users\52999\documents\visual studio 2013\Projects\productos\productos\obj\Debug\productos.pdb
+C:\Users\oem\Downloads\productos\productos\bin\Debug\productos.exe.config
+C:\Users\oem\Downloads\productos\productos\bin\Debug\productos.exe
+C:\Users\oem\Downloads\productos\productos\bin\Debug\productos.pdb
+C:\Users\oem\Downloads\productos\productos\obj\Debug\productos.csproj.AssemblyReference.cache
+C:\Users\oem\Downloads\productos\productos\obj\Debug\productos.Form1.resources
+C:\Users\oem\Downloads\productos\productos\obj\Debug\productos.Properties.Resources.resources
+C:\Users\oem\Downloads\productos\productos\obj\Debug\productos.csproj.GenerateResource.cache
+C:\Users\oem\Downloads\productos\productos\obj\Debug\productos.csproj.CoreCompileInputs.cache
+C:\Users\oem\Downloads\productos\productos\obj\Debug\productos.exe
+C:\Users\oem\Downloads\productos\productos\obj\Debug\productos.pdb
+C:\Users\oem\Documents\Visual Studio 2013\Projects\productos\productos\bin\Debug\productos.exe.config
+C:\Users\oem\Documents\Visual Studio 2013\Projects\productos\productos\obj\Debug\productos.exe
+C:\Users\oem\Documents\Visual Studio 2013\Projects\productos\productos\obj\Debug\productos.pdb
+C:\Users\oem\Documents\Visual Studio 2013\Projects\productos\productos\bin\Debug\productos.exe
+C:\Users\oem\Documents\Visual Studio 2013\Projects\productos\productos\bin\Debug\productos.pdb
+C:\Users\oem\Documents\Visual Studio 2013\Projects\productos\productos\obj\Debug\productos.csprojResolveAssemblyReference.cache
+C:\Users\oem\Documents\Visual Studio 2013\Projects\productos\productos\obj\Debug\productos.Form1.resources
+C:\Users\oem\Documents\Visual Studio 2013\Projects\productos\productos\obj\Debug\productos.Properties.Resources.resources
+C:\Users\oem\Documents\Visual Studio 2013\Projects\productos\productos\obj\Debug\productos.csproj.GenerateResource.Cache
